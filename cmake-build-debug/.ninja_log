@@ -1,0 +1,17 @@
+# ninja log v5
+892	951	1687883733620114667	presubmit	ea3436a3f16b7f31
+9	425	1687862214436687164	CMakeFiles/print_main.dir/User.cpp.o	f8f56bf169bede03
+8	610	1687864501513257212	CMakeFiles/print_main.dir/print_main.cpp.o	a49320a39e23def1
+0	60	1707074253929549349	build.ninja	3f83e2dff0f001f0
+946	1003	1687860339131023868	ex5_jonathan_zl	bf4476d7ab409a35
+668	718	1687864501625084602	print_main	75a2190e99a39082
+8	787	1687883733445643809	CMakeFiles/presubmit.dir/RecommendationSystemLoader.cpp.o	81d43b1823a42626
+7	689	1687883733353560460	CMakeFiles/presubmit.dir/Movie.cpp.o	8a162d6c36967a76
+7	834	1687883733500450897	CMakeFiles/presubmit.dir/presubmit.cpp.o	f2fe72b71dc0eee1
+8	892	1687883733558843186	CMakeFiles/presubmit.dir/RecommendationSystem.cpp.o	578d1340648d0f4f
+8	550	1687862214562313350	CMakeFiles/print_main.dir/RecommendationSystem.cpp.o	7744327c8a95ae01
+8	548	1687863902096372212	CMakeFiles/print_main.dir/Movie.cpp.o	d94f2f0f198c501c
+9	821	1687883733487510195	CMakeFiles/presubmit.dir/UsersLoader.cpp.o	c6fbd2973dfb504d
+8	668	1687864501572372868	CMakeFiles/print_main.dir/UsersLoader.cpp.o	fd19430a2312ec65
+8	776	1687883733438286033	CMakeFiles/presubmit.dir/User.cpp.o	2c4f3c1770252dbb
+8	482	1687862214494694506	CMakeFiles/print_main.dir/RecommendationSystemLoader.cpp.o	8ed4d203e75b2843
